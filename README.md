@@ -1,2 +1,2 @@
 # Malhi-Enterprises
-the workin invoice generater for the buisness Malhi enterprises
+the working invoice generater for the buisness Malhi enterprises
